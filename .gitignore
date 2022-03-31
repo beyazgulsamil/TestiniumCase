@@ -1,0 +1,5 @@
+.target
+.idea
+.Screenshots
+# Project exclude paths
+/target/
